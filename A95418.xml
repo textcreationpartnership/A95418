@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two declarations, the first from Newmarket, concerning the Kings most Excellent Majesty. The second from St. Albanes, agreed upon by the officers and soldiers under command of his Excellency Sir Thomas Fairefax. Wherein is set forth the resolution of the army, concerning the disposall of his Majesties royall person? together with their desires concerning his Highnesse the prince of Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95418</idno>
+            <idno type="STC">Wing T3435</idno>
+            <idno type="STC">Thomason E393_31</idno>
+            <idno type="STC">ESTC R201609</idno>
+            <idno type="EEBO-CITATION">99862109</idno>
+            <idno type="PROQUEST">99862109</idno>
+            <idno type="VID">160319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95418)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160319)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E393[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two declarations, the first from Newmarket, concerning the Kings most Excellent Majesty. The second from St. Albanes, agreed upon by the officers and soldiers under command of his Excellency Sir Thomas Fairefax. Wherein is set forth the resolution of the army, concerning the disposall of his Majesties royall person? together with their desires concerning his Highnesse the prince of Wales.</title>
+                  <author>Allen, Thomas, Parliamentarian.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of two letters, the second of which is dated and signed: St. Albans June 22. late at night. Tho. Allen.</note>
+                  <note>Annotation on Thomason copy: on title page: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160319:1" rendition="simple:additions"/>
+            <p>TWO DECLARATIONS,</p>
+            <p>The firſt from <hi>Newmarket,</hi> concer<g ref="char:EOLhyphen"/>ning the Kings moſt Excellent Maje<g ref="char:EOLhyphen"/>ſty.</p>
+            <p>The ſecond from S<hi rend="sup">t</hi>. <hi>Albanes,</hi> a<g ref="char:EOLhyphen"/>greed upon by the Officers and Soldi<g ref="char:EOLhyphen"/>ers under Command of his Excellen<g ref="char:EOLhyphen"/>cy Sir <hi>Thomas Fairefax.</hi>
+            </p>
+            <p>
+               <hi>Wherein is ſet forth the Reſolution of the Army, concerning the diſpoſall of his Majeſties Royall Perſon? together with their deſires concerning his Highneſſe the prince of</hi> Wales.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R.W.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:160319:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:160319:2"/>
+            <head>A Declaration of the Proceedings of the <hi>COMMISSIONERS.</hi>
+            </head>
+            <opener>
+               <salute>SYR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE various reports that have been ſpread abroad of late, concerning the preſent buſineſſe betweene the Parliament, the City, and the Ar<g ref="char:EOLhyphen"/>my, and the dubious Relations that have beene made of it, have not only ravſed the expectations of people to know the certainty of it, but alſo poſſeſt their mindes with many jea<g ref="char:EOLhyphen"/>louſies and feares; as if, the warres being ended with the Malignants, wee ſhould have diviſions o<g ref="char:EOLhyphen"/>pend among our ſelves, that may breake out into a new warre, which is nothing elſe but the ſecret working of Malignant ſpirits, or perſons of ſuch fortunes that have found better advantage of warre then they could of peaceable times. But there were never more pretenders to truth then in this age, nor ever fewer that obtayned, or made care and Conſcience to uſe it in their words or deedes. And though it be no eaſie matter in ſuch variety of Relations to deliver exactly to the world the preſent proceedings, without an e<g ref="char:EOLhyphen"/>xtraordinary intelligence; Yet I ſhall impart ſo much of the truth and reallity of late paſſages, as ſhall give ſatisfaction to indifferent Readers,
+<pb n="4" facs="tcp:160319:3"/>and a counter-cuffe to all Malignants that vapour and ruffl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the expectation of new broiles.</p>
+            <p>Wee hope ſhortly that the noyſe of warre, and all the miſeries that follow it, will bee removed farther from us, and that Peace, and her bleſ<g ref="char:EOLhyphen"/>ſings ſhall come in the roome; for without que<g ref="char:EOLhyphen"/>ſtion there is like to bee a ſweete and happy ac<g ref="char:EOLhyphen"/>comodation of things betweene the Parliament, the City, and the Army, whereby the expectati<g ref="char:EOLhyphen"/>on of all the Enemies of our Peace and Safetie, of the honour and glory of this Kingdome will be fruſtrated.</p>
+            <p>For certaine kn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w this, that the head Quarters of the Army is ſtill at St. <hi>Albans,</hi> and the Gene<g ref="char:EOLhyphen"/>rall there too: No talke of drawing to a Ren<g ref="char:EOLhyphen"/>dezvouz neerer London, as ſome would have it; all is very peaceable in the Army, and the una<g ref="char:EOLhyphen"/>nimity betwixt the Officers and the ſouldiers to bee admired; not any ſtop of trade or traffique to or from the City of London, in any part of the Army in any kinde, as ſome have falſly ſugge<g ref="char:EOLhyphen"/>ſted; Their inclinations too, and deſire of a well grounded Peace, is apparent by their deſire, that during the debate and tranſaction of this buſi<g ref="char:EOLhyphen"/>neſſe between the Parliament and the Army, the Parliament would not ſuffer any new forces to be rayſed within this kingdome, or any forces to be invited or admitted out of any other kingdome to this, or any thing elſe to be done that may car<g ref="char:EOLhyphen"/>ry the face of a new warre, or of preparations thereunto, which may endanger or interrupt the
+<pb n="5" facs="tcp:160319:3"/>preſent proceedings to the ſettlement of the Li<g ref="char:EOLhyphen"/>berties and Peace of this kingdome.</p>
+            <p>Severall Petitions from the Counties or Hert<g ref="char:EOLhyphen"/>ford, Eſſex, Norfolke, Suffolke and Bucking<g ref="char:EOLhyphen"/>ham, much to this purpoſe; That apprehending a neceſſity for the ſuddaine furtherance of all law<g ref="char:EOLhyphen"/>full meanes which may conduce to the removing their Countries and the kingdomes grievan<g ref="char:EOLhyphen"/>ces, this their preſent addreſſe unto his Excellen<g ref="char:EOLhyphen"/>cy was not ſo generall as otherwiſe it might have beene; yet they were confident they might fully diſcharge their Countries reall and high eſteeme of his Excellencies unwearied and faithfull en<g ref="char:EOLhyphen"/>deavors for the kingdomes Peace. And if his E<g ref="char:EOLhyphen"/>xcellency ſhould farther pleaſe to improve his ut<g ref="char:EOLhyphen"/>moſt intereſt in the honourable Court of Parlia<g ref="char:EOLhyphen"/>ment, for the crowning of his former atchieve<g ref="char:EOLhyphen"/>ments, with the future freedome of this Nation, that they and their poſteritie ſhould acknowledge him; and if any, diſaffected to the common good, ſhould endeavor by meanes hereof to render his Perſon or Army odious to the Parliament or kingdome, that they could not but looke upon that as an injury of a common concernment, and them as enemies to the publique Peace, and that none ſhould be more ready to bring ſuch to their legall and juſt deſerved cenſures then themſelves, who had in this Petition (they humbly preſented unto him) ſubſcribed themſelves both his Excel<g ref="char:EOLhyphen"/>lencies and the Kingdomes faithfull Servants.</p>
+            <p>The Generall hath received order for the re<g ref="char:EOLhyphen"/>movall
+<pb n="6" facs="tcp:160319:4"/>of his Majeſty to Richmond, and Col<g ref="char:EOLhyphen"/>lonell <hi>Roſsiter,</hi> with his Regiment, is to attend and guard his Majeſties perſon, that ſo the Pro<g ref="char:EOLhyphen"/>poſitions agreed upon by both kingdomes may be ſpeedily preſented to his Majeſty, for the ſet<g ref="char:EOLhyphen"/>ling of a ſafe and well grounded Peace.</p>
+            <p>Some ſay his Majeſty is entertayned by the Ar<g ref="char:EOLhyphen"/>my honorably and with all freedome, ſome ſay the contrary, but I rather encline to the firſt: They ſay likewiſe that hee is advanced towards London; others, that hee is ſtill at Newmarket, very pleaſant and merry, but yet very carefull and ſolicitous for ſetling the kingdome in peace and quiet, being very ſenſible of the forepaſt mi<g ref="char:EOLhyphen"/>ſeries, and preſerving the Peace of the kingdome above his owne Rights, therein ſhewing himſelfe a right gracious Prince, and a true Father of his Countrey. Her Majeſty and the Prince are weary of France, hoping ſhortly that all breaches will be made up, and deſiring to bee for England, God ſend them and us all a happy meeting and union again, that as men of one Country and one Religion, we may bee like wiſe all of one Heart and one Minde.</p>
+            <p>There was a Letter <hi>June</hi> the nineteenth came from the Commiſſioners with the Army atten<g ref="char:EOLhyphen"/>ding his Majeſty, That they had ſent to Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairefa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> to know his anſwere to the votes of both Houſes, concerning the diſpoſall of the per<g ref="char:EOLhyphen"/>ſon of his Majeſty to Richmond, and was com<g ref="char:EOLhyphen"/>municated by a Meſſenger from the Lords to the
+<pb n="7" facs="tcp:160319:4"/>Houſe of Commons. His Majeſties own Coach is ſent unto him, to accomodate him for his re<g ref="char:EOLhyphen"/>movall.</p>
+            <p>The Papiſts conceive great hopes now of ad<g ref="char:EOLhyphen"/>vancing their Cauſe againe, on what grounds I cannot ſee, unleſſe thoſe little Foxes, the ſubtle Jeſuites, the common Incendiaries of Chriſten<g ref="char:EOLhyphen"/>dome, that creepe up and downe in corners of this Land, have by their ſlie practices ſo much influence upon the ſeverall parties as to ſet them in a combuſtion. They cry aloud, Downe with us, Downe with us, even to the ground; and their bloody zeale is ſuch, that they could bee content to loſe their owne Lives in the common ruine, Looke to them. But God forbid that ſuch eminent Parties as the Parliament, City, and Kingdome ſhould be incenſed, or engaged one againſt another to their Countries ruine, who all of them have already ſo highly merited of their Countrey in preſerving and vindicating her anci<g ref="char:EOLhyphen"/>ent Liberties.</p>
+            <p>It is certaine that the Souldiery of the Army are generally for a compoſure of all things in love and ſo doubtleſſe it will bee.</p>
+            <closer>God preſerve his Royall Majeſty, and unite us all in Peace with Love; and ſcatter all thoſe like duſt in the winde, that ſeeke to divide us.</closer>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:160319:5"/>
+            <head>Another Copy of a Letter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAVING ſuch a fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oportunity by this Bearer, I thought it meete to repreſent un<g ref="char:EOLhyphen"/>to you theſe enſuing Lines; but by reaſon they are not yet come to the full growth and maturity, I ſhall therefore give you the heads of a Decla<g ref="char:EOLhyphen"/>ration, now in Diſpence and drawing up by the Officers and Souldiers, under commaund of his Excellency Sir <hi>Thomas Fairefax</hi> at St. Albanes.</p>
+            <p n="1">1. <hi>They Declare their deſires to have the Kings Ma<g ref="char:EOLhyphen"/>jeſty ſtated in his Royall Throne at Weſtminſter, as formerly, and his Royall Poſterity provided for with Honor and Safety.</hi>
+            </p>
+            <p n="2">2. <hi>That a Meſſage may be ſpeedily ſent to his High<g ref="char:EOLhyphen"/>neſſe the Prince of Wales, with an invitation from both houſes of Parliament for his return to England,</hi>
+            </p>
+            <p n="3">3 <hi>That Juſtice may be ſpeedily executed &amp; the pri<g ref="char:EOLhyphen"/>viledg of Parl. &amp; the Liberty of the ſubject maintaind.</hi>
+            </p>
+            <p>His Excellency hath lately received a Meſſage from Newmarket wherein his Majeſty doth de<g ref="char:EOLhyphen"/>clare his concurrence to the Parliaments votes, &amp; his great willingnes to goe to Richmond with the Commiſſioners, his Majeſty conceives that to be a ready way to put a period to all the diſtractions within this kingdom. Concerning which the Ar<g ref="char:EOLhyphen"/>my hath had a long de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, both by the Officers and Agitators of the Army, but hath not fully concluded of it as yet. By the next you ſhall heare farther from</p>
+            <closer>
+               <dateline>St. Albans <date>June 22.</date> late at night.</dateline>
+               <signed>Your Frend &amp; Kinſman, THO. ALLEN.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
